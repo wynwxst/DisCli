@@ -1,6 +1,6 @@
 # Discli
 
-Discord terminal from cordless fork
+Discord terminal
 
 # Install
 1. Go to releases and download the required file for your OS
